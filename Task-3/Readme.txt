@@ -1,0 +1,1 @@
+Here i created a Image galary with responsive layout using flex properties.
